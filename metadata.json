@@ -1,0 +1,6 @@
+{
+  "name": "VedaChaldea Atelier — Bespoke Baby Name Numerology",
+  "description": "Personalized Chaldean and Vedic baby name numerology report service delivered digitally within 24 hours to WhatsApp and Email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
